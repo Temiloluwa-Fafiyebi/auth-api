@@ -2,7 +2,7 @@
 
 A production-minded authentication API built with Node.js, Express and MongoDB.
 
-**Live demo:** https://YOUR-SERVICE.onrender.com/health (free tier: the first request after idle can take about a minute)
+**Live demo:** https://auth-api-jeup.onrender.com/health (It is free tier so the first request after idle can take about a minute)
 
 ## Features
 - Register / login with bcrypt-hashed passwords (cost 12)
